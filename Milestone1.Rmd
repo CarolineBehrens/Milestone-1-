@@ -1,0 +1,26 @@
+---
+title: 'Milestone #1'
+author: "Caroline"
+date: "2/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here is what im thinking for my final project.
+I am thinking aboout doing something related to criminal justice and
+incarceration rates across the United States. I have found data that shows 
+the amount of incarcerated individuals in each state, and is then broken down 
+into what crimes they have committed. I have also found Covid-19 related 
+stats to cases in prisons that I could incorporate into my final project 
+to possibly show the effect of the pandemic on how prisons run. Below are links
+to data I have found that can help with my project. 
+
+https://data.world/associatedpress/marshall-project-covid-cases-in-prisons/workspace/file?filename=covid_prison_rates.csv
+
+https://data.world/kevinnayar/us-states-sociological-metrics/workspace/file?filename=data.csv
+
+https://www.kaggle.com/christophercorrea/prisoners-and-crime-in-united-states
+
